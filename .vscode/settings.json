@@ -1,0 +1,15 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.snippetSuggestions": "top",
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "tslint.autoFixOnSave": true,
+    "editor.formatOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "search.exclude": {
+        "**/build": true
+    },
+    "explorer.autoReveal": false,
+}
